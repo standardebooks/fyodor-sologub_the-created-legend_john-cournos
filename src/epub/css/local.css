@@ -1,2 +1,51 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+blockquote header{
+	margin-bottom: 1em;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
+}
+
+[epub|type~="se:letter.dateline"]{
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	text-align: center;
+}
+
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:song"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:song"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:song"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:song"] p > span + br{
+	display: none;
+}
+
+/* Visiting card in chapter 36 */
+.card{
+	text-align: center;
+	font-style: italic;
+}
