@@ -58,10 +58,11 @@
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">aui</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:creator id="artist">August Strindberg</dc:creator>
+		<meta property="file-as" refines="#artist">Strindberg, August</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Johan August Strindberg</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/August_Strindberg</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79005597</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Eric Eldred</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Eldred, Eric</meta>
