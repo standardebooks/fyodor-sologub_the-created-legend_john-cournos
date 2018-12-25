@@ -15,10 +15,17 @@ footer{
 }
 
 [epub|type~="se:letter.dateline"]{
-	display: flex;
-	align-items: center;
-	justify-content: space-evenly;
-	text-align: center;
+	font-size: .75em;
+	margin-bottom: .5em;
+}
+
+@supports(display: flex){
+	[epub|type~="se:letter.dateline"]{
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		text-align: center;
+	}
 }
 
 [epub|type~="z3998:salutation"]{
