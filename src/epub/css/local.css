@@ -60,6 +60,10 @@ footer{
 	font-style: italic;
 }
 
+blockquote [epub|type~="noteref"]{
+	font-style: normal;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
