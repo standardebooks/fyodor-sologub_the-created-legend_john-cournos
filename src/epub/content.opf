@@ -50,14 +50,13 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Fyodor_Sologub</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79142566</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator-1">John Cournos</dc:contributor>
-		<meta property="file-as" refines="#translator-1">Cournos, John</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/John_Cournos</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n82067305</meta>
-		<meta property="display-seq" refines="#translator-1">1</meta>
-		<meta property="se:role" refines="#translator-1" scheme="marc:relators">ann</meta>
-		<meta property="se:role" refines="#translator-1" scheme="marc:relators">aui</meta>
-		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator">John Cournos</dc:contributor>
+		<meta property="file-as" refines="#translator">Cournos, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/John_Cournos</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n82067305</meta>
+		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#translator" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">August Strindberg</dc:contributor>
 		<meta property="file-as" refines="#artist">Strindberg, August</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Johan August Strindberg</meta>
