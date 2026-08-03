@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/fyodor-sologub/the-created-legend/john-cournos</dc:identifier>
 		<dc:date>2018-12-27T22:26:59Z</dc:date>
@@ -34,12 +34,12 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008116767</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">In a provincial town a Russian poet draws himself away from society to create his utopia.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>In a provincial town a Russian poet draws himself away from society to create his utopia.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Hidden in the forest, the poet Trirodov attempts to secede from the troubled society of early twentieth century Russia to build his own utopia: a school for the quiet children he cares for. Nothing is ever that easy though, and his personal connections to the outside world tie him into the political whirlwind of agitators, factions and power struggles that threaten his solitude.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Created Legend&lt;/i&gt; portrays a stark contrast to the protagonists of &lt;a href="https://standardebooks.org/ebooks/fyodor-sologub"&gt;Sologub’s&lt;/a&gt; earlier work &lt;a href="https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos_richard-aldington"&gt;&lt;i&gt;The Little Demon&lt;/i&gt;&lt;/a&gt;, even though the setting is the same town of Skorodozh. There, they varied from at best well-meaning to actively malignant; here the lead characters are idealistic, and isolate themselves from the trials of Russian society in an attempt to maintain their idealism. Trirodov sees beauty and mystery everywhere he looks, and (following the title) works to create his own legend.&lt;/p&gt;
 			&lt;p&gt;This volume, originally titled “Drops of Blood,” is the first of the “Created Legend” trilogy and the only one translated contemporaneously into English. It was received with some bewilderment by critics: the combination of current affairs and magical events proved too strange for many. However, treated as an early example of magic realism and with the benefit of hindsight, the setting and symbolism is less shocking and more readily accessible to the modern reader.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7480</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012518111</dc:source>
