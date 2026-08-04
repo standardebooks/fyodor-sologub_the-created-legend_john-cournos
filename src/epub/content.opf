@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008116767</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>In a provincial town a Russian poet draws himself away from society to create his utopia.</dc:abstract>
+		<meta property="schema:abstract">In a provincial town a Russian poet draws himself away from society to create his utopia.</meta>
 		<dc:description>
 			&lt;p&gt;Hidden in the forest, the poet Trirodov attempts to secede from the troubled society of early twentieth century Russia to build his own utopia: a school for the quiet children he cares for. Nothing is ever that easy though, and his personal connections to the outside world tie him into the political whirlwind of agitators, factions and power struggles that threaten his solitude.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Created Legend&lt;/i&gt; portrays a stark contrast to the protagonists of &lt;a href="https://standardebooks.org/ebooks/fyodor-sologub"&gt;Sologub’s&lt;/a&gt; earlier work &lt;a href="https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos_richard-aldington"&gt;&lt;i&gt;The Little Demon&lt;/i&gt;&lt;/a&gt;, even though the setting is the same town of Skorodozh. There, they varied from at best well-meaning to actively malignant; here the lead characters are idealistic, and isolate themselves from the trials of Russian society in an attempt to maintain their idealism. Trirodov sees beauty and mystery everywhere he looks, and (following the title) works to create his own legend.&lt;/p&gt;
